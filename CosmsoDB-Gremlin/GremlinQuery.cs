@@ -66,7 +66,7 @@ namespace CosmsoDB_Gremlin
                     }
                     catch (Exception ex)
                     {
-                        Console.WriteLine($"Error: {ex.Message}");
+                        Console.WriteLine($"An Error error has occured: {ex.Message}");
                         break;
                     }
                 }
